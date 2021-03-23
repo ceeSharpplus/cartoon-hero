@@ -69,3 +69,12 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
+
+ main #myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: .25;
+}
