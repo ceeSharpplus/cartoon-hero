@@ -70,6 +70,7 @@ p.caption{
 	margin-top: 0;
 }
 
+ /*
  main #myVideo {
   position: fixed;
   right: 0;
@@ -77,4 +78,5 @@ p.caption{
   min-width: 100%;
   min-height: 100%;
   opacity: .25;
+*/
 }
